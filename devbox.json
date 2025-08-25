@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "openssl",
+    "gcc@latest",
+    "clang",
+    "gnuMake@latest"
+  ]
+}
