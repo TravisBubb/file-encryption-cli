@@ -1,0 +1,47 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/crypto.o",
+      "src/crypto.c"
+    ],
+    "directory": "/home/tbubb/dev/file-encryption-cli",
+    "file": "/home/tbubb/dev/file-encryption-cli/src/crypto.c",
+    "output": "/home/tbubb/dev/file-encryption-cli/build/crypto.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/fileio.o",
+      "src/fileio.c"
+    ],
+    "directory": "/home/tbubb/dev/file-encryption-cli",
+    "file": "/home/tbubb/dev/file-encryption-cli/src/fileio.c",
+    "output": "/home/tbubb/dev/file-encryption-cli/build/fileio.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/tbubb/dev/file-encryption-cli",
+    "file": "/home/tbubb/dev/file-encryption-cli/src/main.c",
+    "output": "/home/tbubb/dev/file-encryption-cli/build/main.o"
+  }
+]
